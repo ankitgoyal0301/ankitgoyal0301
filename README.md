@@ -47,16 +47,24 @@ Being a Computer science Student with **9.73 CGPA**, I am also an Active Executi
 
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
-### Specialties: 
-**Languages:** C++, Python
+## Specialties: 
+ ### **Languages:** 
 
-**Technologies:**
+<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="PYTHON" width="35x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<br>
+<br/>
+
+
+### **Technologies:**
 
 - **Deep Learning** - Keras, OpenCv
 - **Machine Learning** - ScikitLearn
 - **BlockChain** - Ethereum, Smart Contracts, Solidity 
 
-📫 How to reach me: 
+<hr>
+
+## 📫 How to reach me: 
 
 <a target="_blank" href="https://www.linkedin.com/in/ankit-goyal-07017a182/"><img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a target="_blank" href="mailto:goyalankit3129@gmail.com">
@@ -67,5 +75,5 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
 </a>
 
 <br>
-<br>
+
 That's all from me, Thank you! :wink:
