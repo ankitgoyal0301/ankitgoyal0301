@@ -15,9 +15,7 @@
 
 - 😄 Pronouns: He/Him
 
-- 📫 Contact Me : 
-
-
+- ⚡ Fun fact: I love writing on platforms like Quora.
 
 <br />
 
