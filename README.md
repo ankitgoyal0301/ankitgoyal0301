@@ -1,9 +1,10 @@
-## Hi There, I'm <a href="https://github.com/ankitgoyal0301">Ankit Goyal</a> 👋
+## Hi There, I'm <a href="https://github.com/ankitgoyal0301">Ankit Goyal</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=ankitgoyal0301&color=blue alt=ankitgoyal0301/></p>
 
 <br />
 
 <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitgoyal0301&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33&hide_rank=true" alt="Ankit's github stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitgoyal0301&theme=radical&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=33" alt="Ankit's github stats"/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgoyal0301&hide=html&show_icons=true&theme=tokyonight&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Ankit's github stats"/>
 </p>
 
@@ -63,6 +64,17 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
 <hr>
 
 ## 📫 How to reach me: 
+
+**💬 Ask me about anything, I'll be happy to help!** <br>
+**💬 My inbox is always open, Contact me**
+
+<a href="https://www.linkedin.com/in/ankit-goyal-07017a182" target="_blank">
+   <img align="left" alt="Ankit Goyal | Linkedin" width="24px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Linkedin.svg" />
+  </a>
+<a href="mailto:piyushpravin1998@gmail.com" target="_blank">
+    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+</a>
+
 
 <a target="_blank" href="https://www.linkedin.com/in/ankit-goyal-07017a182/"><img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a target="_blank" href="mailto:goyalankit3129@gmail.com">
