@@ -67,19 +67,16 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
 **💬 My inbox is always open, Contact me**
 
 <a href="https://www.linkedin.com/in/ankit-goyal-07017a182" target="_blank">
-   <img align="left" alt="Ankit Goyal | Linkedin" width="24px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Linkedin.svg" />
+   <img align="left" alt="Ankit Goyal | Linkedin" width="24px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Linkedin.svg" />
   </a>
-<a href="mailto:piyushpravin1998@gmail.com" target="_blank">
-    <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+<a href="mailto:goyalankit3129@gmail.com" target="_blank">
+    <img align="left" alt="Ankit Goyal | Gmail" width="26px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Gmail.svg" />
 </a>
-
-
-<a target="_blank" href="https://www.linkedin.com/in/ankit-goyal-07017a182/"><img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a target="_blank" href="mailto:goyalankit3129@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://www.facebook.com/profile.php?id=100026461058569">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/profile.php?id=100026461058569" target="_blank">
+   <img align="left" alt="Ankit Goyal | Facebook" width="24px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Facebook.png" />
+  </a>
+<a href="https://www.quora.com/profile/Ankit-Goyal-233" target="_blank">
+    <img align="left" alt="Ankit Goyal | Quora" width="26px" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Quora.png" />
 </a>
 
 <br>
