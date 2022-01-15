@@ -38,9 +38,11 @@ This passion carried me through my education at **Punjab Engineering College(PEC
 
 I learned C++, tearing through many online tutorials I could find on anything related to software development. I was insatiable. I studied new languages like Python, got to learn Data structures & algorithms, and pursuing my interest for mathematics, I dived deeper into the field of Machine Learning and Deep Learning, all with pretty much the same fascination that drove me as a kid. With the guidance of our faculty and seniors, I got to work in Blockchain technology, which taught me that blockchain technology has the power to bring revolution in the world. It was here that I learned truly how much there was yet to learn.
 
+I have interned for 6 months at **Goldman Sachs**, which was a great learning experience, as I got to learn alot of new stuff, how industry projects work, how projects are deployed, importance of testing and agile software development technique.
+
 My interests include Competitive Programming which taught me patience and improved my Logical thinking and Problem-Solving skills to a great extent. My greatest achievement in Competitive programming has been a **Global Rank - 14** among 4000+ participants in a monthly 3-hour coding contest at Codechef. Also, I love Writing on Quora.
 
-Being a Computer science Student with **9.73 CGPA**, I am also an Active Executive Body Member at PEC ACM Student Chapter, Technical Organising Committee(OC) member at PEC and Competitive Programming Lead at Codechef Campus Chapter, which certainly made me appreciate to work as a team towards the development of an organization or society.
+Being a Computer science Student with **9.65 CGPA**, I am also an PEC ACM Secretary and Active Executive Body Member at PEC ACM Student Chapter, and President at Codechef PEC Chapter, which certainly made me appreciate to work as a team towards the development of an organization or society.
 
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
@@ -48,7 +50,8 @@ There's certainly yet more to learn, yet more problems to solve, and yet more to
  ### **Languages:** 
 
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="PYTHON" width="35x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="PYTHON" width="35x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="JAVA" width="35x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br>
 <br/>
 
