@@ -42,7 +42,7 @@ I have interned for 6 months at **Goldman Sachs**, which was a great learning ex
 
 My interests include Competitive Programming which taught me patience and improved my Logical thinking and Problem-Solving skills to a great extent. My greatest achievement in Competitive programming has been a **Global Rank - 14** among 4000+ participants in a monthly 3-hour coding contest at Codechef. Also, I love Writing on Quora.
 
-Being a Computer science Student with **9.65 CGPA**, I am also an PEC ACM Secretary and Active Executive Body Member at PEC ACM Student Chapter, and President at Codechef PEC Chapter, which certainly made me appreciate to work as a team towards the development of an organization or society.
+Being a Computer science Student with **9.65 CGPA**, I am also an **PEC ACM Secretary** and Active Executive Body Member at PEC ACM Student Chapter, and **President** at Codechef PEC Chapter, which certainly made me appreciate to work as a team towards the development of an organization or society.
 
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
